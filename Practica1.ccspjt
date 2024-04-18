@@ -1,0 +1,50 @@
+[PROJECT]
+Target=Practica1.hex
+Processor_Text=PIC18F4550
+CCSVerions=5.076
+Compiler=PCH
+CCSVersion=5.076
+[Target Data]
+FileList=Practica1.c
+[Directories]
+Include=
+[C:\Users\master\Desktop\SeminarioSensores\Practica1]
+Type=4
+[mru-list]
+1=Practica1.c
+
+[fileformats]
+forcecoff=0
+
+[ProjectLog]
+Days=1
+D1=23-11-2020
+D1_L=15
+D1_L1=[3019]Project Opened.
+D1_L2=[3085]Started Editing.
+D1_L3=[3409]Stopped Editing.
+D1_L4=[53606]Started Editing.
+D1_L5=[54149]Stopped Editing.
+D1_L6=[55196]Started Editing.
+D1_L7=[55496]Stopped Editing.
+D1_L8=[55497]Started Editing.
+D1_L9=[56157]Project Closed.
+D1_L10=[65737]Project Opened.
+D1_L11=[65758]Project Closed.
+D1_L12=[65771]Project Opened.
+D1_L13=[65778]Project Closed.
+D1_L14=[65793]Project Opened.
+D1_L15=[65798]Project Closed.
+
+[Opened Files]
+1=Practica1.c
+t1=1
+Count=1
+[Practica1.c]
+Type=4
+
+[defines]
+buildcount=6
+[Units]
+Count=1
+1=Practica1 (main)

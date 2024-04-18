@@ -1,0 +1,21 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F887 -DL -O11111114 -fo8 -N"C:\Users\master\Desktop\SeminarioSensores\Practica1.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\master\Desktop\SeminarioSensores\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "Practica1.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+error: 8	304	 error: Can't open include file "18f4550.h"     #include <18F4550.h>	C:\Users\master\Desktop\SeminarioSensores\Practica1.c
+error: 9	304	 error: Unknown #directive "fuses"     #fuses NOMCLR INTRC_IO MCLR	C:\Users\master\Desktop\SeminarioSensores\Practica1.c
+error: 10	304	 error: Unknown #directive "use"     #use delay(clock=2000000)	C:\Users\master\Desktop\SeminarioSensores\Practica1.c
+error: 11	304	 error: Can't open include file "lcd.c"     #include <lcd.c> 4 errors in preprocessor.	C:\Users\master\Desktop\SeminarioSensores\Practica1.c
+diagnostics: 0	122	Compilation Started	Practica1.c
+error: 13	324	Undeclared identifier 'set_tris_A' in expression	Practica1.c
+error: 14	324	Undeclared identifier 'setup_oscillator' in expression	Practica1.c
+error: 15	324	Undeclared identifier 'lcd_init' in expression	Practica1.c
+error: 16	324	Undeclared identifier 'lcd_putc' in expression	Practica1.c
+error: 17	324	Undeclared identifier 'lcd_gotoxy' in expression	Practica1.c
+error: 18	324	Undeclared identifier 'lcd_putc' in expression	Practica1.c
+error: 20	324	Undeclared identifier 'lcd_putc' in expression	Practica1.c
+error: 21	324	Undeclared identifier 'lcd_gotoxy' in expression	Practica1.c
+error: 22	324	Undeclared identifier 'lcd_putc' in expression	Practica1.c
+error: 23	315	Invalid expression	Practica1.c
+error: 22	402	; expected, but 'int' found	Practica1.c
+error: 23	424	'}' expected ';' found	Practica1.c
+error: 31	312	Internal error ''	Practica1.c
+error: 0	102	Finished (with errors): 08 dic 2020, 03:28:26	Practica1.mcppi
